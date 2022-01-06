@@ -1,6 +1,6 @@
 ---
 title: Adopters
-draft: false
+draft: falseADOPTERS.md
 date: "2021-03-08T23:50:39+01:00"
 ---
 
@@ -272,7 +272,10 @@ Details (optional):
 
 ## <Insert Company/Organization Name>
 
-https://our-link.com/
+https://our-link.com/reno.cloud.com
+
+rianah.org
+
 
 Environments: AWS, Azure, Google Cloud, Bare Metal, etc
 
